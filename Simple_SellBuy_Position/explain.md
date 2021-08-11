@@ -1,3 +1,4 @@
+# Simple Expert
 - this Simple expert in mql4 compares The previous two candles. When these two candles are bullish, a buy order is placed and otherwise a sell order is placed.
 
 - ** This simple expert is just for learning not trading **
