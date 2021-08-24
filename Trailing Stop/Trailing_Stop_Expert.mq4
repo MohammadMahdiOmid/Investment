@@ -1,10 +1,7 @@
-//+------------------------------------------------------------------+
-//|                                                     Project6.mq4 |
-//|                                      Seyed Amir Babak Teymourian |
-//|                                         http://www.amirbabak.com |
-//+------------------------------------------------------------------+
-#property copyright "Seyed Amir Babak Teymourian"
-#property link      "http://www.amirbabak.com"
+#property copyright "Copyright 2021, MetaQuotes Software Corp."
+#property link      "https://www.mql5.com"
+#property version   "1.00"
+#property strict
 
 extern double LOTSIZE=0.1;
 extern int TakeProfit=80;
