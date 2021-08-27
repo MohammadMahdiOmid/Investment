@@ -15,4 +15,4 @@ This repository is created to share our financial experiences in the Digital and
   - [README](https://github.com/MohammadMahdiOmid/Investment/blob/master/Buy_Sell_Stop/explain.md)
   
 - [Trailing Stop Expert](https://github.com/AliRazani99/Investment/tree/master/Trailing%20Stop)
-  - [README](https://github.com/MohammadMahdiOmid/Investment/blob/master/Trailing%20Stop/Trailing_Stop_Expert.mq4)
+  - [README](https://github.com/MohammadMahdiOmid/Investment/blob/master/Trailing%20Stop/explain.md)
